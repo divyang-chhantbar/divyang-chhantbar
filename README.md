@@ -1,0 +1,7 @@
+- 👋 Yo! I’m @divyang-chhantbar, just a regular dev trying to survive in the wild world of JavaScript. 
+- 👀 I’m interested in... finding bugs in my code and pretending I put them there to "test my skills." Also, I’m into backend dev, full-stack stuff, and cracking the secret sauce of Amazon interview questions (send help, pls).
+- 🌱 I’m currently learning the art of MERN stack wizardry, trying to figure out why tokens are a thing, and making YouTube download extensions that won't tank your video quality. My hobbies include refreshing my DSA notes and occasionally freaking out over async code.
+- 💞️ I’m looking to collaborate on any project that makes me look smarter than I am. If you’ve got a cool Node.js project and can handle my occasional existential crisis about promises, hit me up.
+- 📫 How to reach me: carrier pigeon, smoke signals, or just [divyangchhantbar@gmail.com]—your choice.
+- 😄 Pronouns: he/him, but I also respond to "Code Whisperer" and "Async Overthinker Extraordinaire."
+- ⚡ Fun fact: I once accidentally deployed to production. It was... a learning experience.
